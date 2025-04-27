@@ -150,6 +150,7 @@ header nav ul li a:hover {
     max-width: 100%;
     height: auto;
     object-fit: contain;
+    border-radius: 50%;
 }
 
 /* About Section */
